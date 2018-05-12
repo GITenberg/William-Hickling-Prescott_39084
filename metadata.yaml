@@ -1,0 +1,31 @@
+_repo: William-Hickling-Prescott_39084
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39084-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Peck, Harry Thurston
+    aliases:
+    - Pyke, Rafford
+    - Peck, H. T. (Harry Thurston)
+    birthdate: 1856
+    deathdate: 1914
+    gutenberg_agent_id: '33626'
+    url: http://www.gutenberg.org/2009/agents/33626
+description: ''
+gutenberg_issued: '2012-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39084'
+  lccn: '05013310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historians -- United States -- Biography'
+- !lcsh 'Prescott, William Hickling, 1796-1859'
+title: William Hickling Prescott
+url: http://www.gutenberg.org/ebooks/39084
